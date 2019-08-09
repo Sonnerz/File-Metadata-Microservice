@@ -1,2 +1,7 @@
-# File-Metadata-Microservice
-FCC - API Project - File Metadata Microservice
+# File Metadata Microservice
+
+Please upload a file to retrieve the following metadata:
+
+####  file name
+####  file type
+####  file size
